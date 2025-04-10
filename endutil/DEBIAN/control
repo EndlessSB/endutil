@@ -3,7 +3,7 @@ Version: 1.0.0
 Architecture: all
 Maintainer: EndlessSb <endless@endlesssb.com>
 Installed-Size: 1024
-Depends: python3, python3-psutil, python3-distro, python3-rich, python3-py-cpuinfo
+Depends: python3, python3-psutil, python3-distro, python3-rich, python3-pip
 Section: utils
 Priority: optional
 Description: A rich terminal system info tool like neofetch.
