@@ -11,3 +11,7 @@
 ## Info
 
 I made this out of boardem, and just another alternative to Neofetch as it hasnt been maintained for quite a while.
+
+## Images
+
+![Exmaple Image](https://i.imgur.com/QLRTkDS.png)
