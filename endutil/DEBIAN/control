@@ -1,0 +1,10 @@
+Package: endutil
+Version: 1.0.0
+Architecture: all
+Maintainer: EndlessSb <endless@endlesssb.com>
+Installed-Size: 1024
+Depends: python3, python3-psutil, python3-distro, python3-rich, python3-py-cpuinfo
+Section: utils
+Priority: optional
+Description: A rich terminal system info tool like neofetch.
+ This tool provides detailed system information in a pretty format using rich graphics in the terminal.
